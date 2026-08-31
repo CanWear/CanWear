@@ -45,11 +45,9 @@ Também estou constantemente estudando novas tecnologias e desenvolvendo projeto
 
 ## 📚 Formação
 
-🎓 **Análise e Desenvolvimento de Sistemas**
+🎓 **Análise e Desenvolvimento de Sistemas (Em Andamento...)**
 
-🎓 **Engenharia de Software**
-
-🛡️ **Técnico em Segurança Cibernética — SENAI/SC**
+🛡️ **Curso em Segurança Cibernética / 180 HORAS— SENAI/SC**
 
 ---
 
