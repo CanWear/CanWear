@@ -4,7 +4,7 @@
 
 ### 💻 Software Development • Backend • Cybersecurity
 
-`>_ Construindo sistemas. Aprendendo todos os dias.`
+`Construindo sistemas. Aprendendo todos os dias.`
 
 </div>
 
