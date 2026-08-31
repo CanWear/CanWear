@@ -55,17 +55,11 @@ Também estou constantemente estudando novas tecnologias e desenvolvendo projeto
 
 ### 🟠 Audax Studio
 
-Landing page desenvolvida para praticar **HTML e CSS**, trabalhando conceitos de estrutura semântica, Flexbox, responsividade e identidade visual.
+Landing page desenvolvida para praticar **HTML e CSS**, trabalhando conceitos de estrutura semântica, Flexbox e responsividade.
 
 **Tecnologias:**
 
 `HTML5` `CSS3`
-
----
-
-### 🔐 Cybersecurity
-
-Projetos e estudos voltados para fundamentos de **segurança cibernética, Linux, Python e automação**.
 
 ---
 
