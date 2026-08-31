@@ -1,50 +1,10 @@
 <div align="center">
 
-  <!-- BANNER -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff6b00&height=220&section=header&text=CRISTIAN%20MACHADO&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&stroke=ff6b00&strokeWidth=2"
-    width="100%"
-    alt="Cristian Machado"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=CRISTIAN%20MACHADO&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&stroke=ff6b00&strokeWidth=2&color=0D1117" width="100%"/>
 
-  <!-- TÍTULO -->
-  <h2>
-    💻 Software Development • 🛡️ Cybersecurity • ⚙️ Backend
-  </h2>
+### 💻 Software Development • Backend • Cybersecurity
 
-  <p>
-    <code>>_ Construindo sistemas. Aprendendo todos os dias.</code>
-  </p>
-
-  <!-- BADGES -->
-  <p>
-
-    <img
-      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-      alt="Python"
-    />
-
-    <img
-      src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-      alt="Java"
-    />
-
-    <img
-      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-      alt="Linux"
-    />
-
-    <img
-      src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
-      alt="Shell Script"
-    />
-
-    <img
-      src="https://img.shields.io/badge/Cybersecurity-00ffcc?style=for-the-badge&logo=hackthebox&logoColor=0d1117"
-      alt="Cybersecurity"
-    />
-
-  </p>
+`>_ Construindo sistemas. Aprendendo todos os dias.`
 
 </div>
 
@@ -52,13 +12,15 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**, construindo minha carreira na área de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha carreira na área de tecnologia.
 
-Atualmente estou direcionando meus estudos principalmente para **desenvolvimento back-end, infraestrutura e segurança cibernética**.
+Atualmente estou direcionando meus estudos para **desenvolvimento Back-end, infraestrutura e segurança cibernética**, buscando transformar o conhecimento adquirido em projetos práticos.
 
-Também estou construindo projetos próprios para transformar o conhecimento adquirido nos estudos em experiência prática.
+Também estou constantemente estudando novas tecnologias e desenvolvendo projetos próprios para fortalecer minha experiência.
 
-### 🎯 Atualmente focado em
+---
+
+## 🎯 Atualmente estudando
 
 - 🐍 **Python**
 - ☕ **Java**
@@ -66,37 +28,66 @@ Também estou construindo projetos próprios para transformar o conhecimento adq
 - 💻 **Shell Script**
 - 🛡️ **Cybersecurity**
 - ⚙️ **Desenvolvimento Back-end**
-- 🏗️ **Arquitetura e lógica de sistemas**
-- 🔧 **Git e GitHub**
-- 🌐 Fundamentos de desenvolvimento web
-
-### 📚 Formação
-
-- 🎓 **Análise e Desenvolvimento de Sistemas**
-- 🎓 **Engenharia de Software**
-- 🛡️ **Técnico em Segurança Cibernética — SENAI/SC**
-
-### 💡 Objetivo
-
-Meu objetivo é construir uma carreira sólida em **desenvolvimento de software**, evoluindo principalmente em **Back-end, infraestrutura e segurança**, enquanto desenvolvo projetos reais e continuo aprimorando minha base técnica.
+- 🧠 **Lógica de programação**
+- 🔧 **Git & GitHub**
+- 🌐 **HTML & CSS**
 
 ---
 
 ## 🛠️ Tecnologias
 
-```text
-Backend
-├── Python
-├── Java
-└── APIs / desenvolvimento de sistemas
+<div align="center">
 
-Cybersecurity
-├── Linux
-├── Shell Script
-└── Fundamentos de segurança
+<img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,html,css" />
 
-Development
-├── Git
-├── GitHub
-├── HTML
-└── CSS
+</div>
+
+---
+
+## 📚 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas**
+
+🎓 **Engenharia de Software**
+
+🛡️ **Técnico em Segurança Cibernética — SENAI/SC**
+
+---
+
+## 📌 Projetos
+
+### 🟠 Audax Studio
+
+Landing page desenvolvida para praticar **HTML e CSS**, trabalhando conceitos de estrutura semântica, Flexbox, responsividade e identidade visual.
+
+**Tecnologias:**
+
+`HTML5` `CSS3`
+
+---
+
+### 🔐 Cybersecurity
+
+Projetos e estudos voltados para fundamentos de **segurança cibernética, Linux, Python e automação**.
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&title_color=ff6b00&icon_color=ff6b00&text_color=ffffff&bg_color=0D1117" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&title_color=ff6b00&text_color=ffffff&bg_color=0D1117" height="170"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `>_ Sempre aprendendo. Sempre construindo.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0D1117&stroke=ff6b00&strokeWidth=2" width="100%"/>
+
+</div>
