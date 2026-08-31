@@ -63,22 +63,3 @@ Landing page desenvolvida para praticar **HTML e CSS**, trabalhando conceitos de
 
 ---
 
-## 📈 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&title_color=ff6b00&icon_color=ff6b00&text_color=ffffff&bg_color=0D1117" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&title_color=ff6b00&text_color=ffffff&bg_color=0D1117" height="170"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `>_ Sempre aprendendo. Sempre construindo.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0D1117&stroke=ff6b00&strokeWidth=2" width="100%"/>
-
-</div>
