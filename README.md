@@ -37,7 +37,7 @@ Também estou constantemente estudando novas tecnologias e desenvolvendo projeto
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,html,css" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css" />
 
 </div>
 
