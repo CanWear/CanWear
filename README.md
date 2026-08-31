@@ -23,7 +23,6 @@ Também estou constantemente estudando novas tecnologias e desenvolvendo projeto
 ## 🎯 Atualmente estudando
 
 - 🐍 **Python**
-- ☕ **Java**
 - 🐧 **Linux**
 - 💻 **Shell Script**
 - 🛡️ **Cybersecurity**
